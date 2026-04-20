@@ -1,2 +1,14 @@
 # orderbook-matching-engine
-Low-latency C++ order book matching engine with 1M+ orders/sec benchmark
+# Low-Latency Limit Order Book Matching Engine
+
+Built in C++.
+
+Features:
+- Price-time priority
+- Partial fills
+- Order cancellation
+- 1M+ orders/sec benchmark
+
+Technologies:
+C++, STL, maps, queues
+
